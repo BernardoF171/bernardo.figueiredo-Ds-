@@ -1,0 +1,108 @@
+🎯 Quando escolher Kanban (os 3 cenários ideais)
+1. 🔄 Fluxo caótico, sobrecarga e imprevisibilidade
+
+Use Kanban se você tem:
+
+Muitas tarefas simultâneas
+Gargalos constantes
+Prazos estourando
+Qualidade caindo
+
+👉 Por quê funciona:
+
+Limite de WIP reduz sobrecarga
+Visualização expõe gargalos
+Fluxo fica mais previsível
+
+👉 Ponto cego:
+
+Só visualizar não resolve
+Se você não limitar WIP e gerenciar fluxo → nada muda
+
+2. ⏳ Decisões precisam de mais informação (compromisso tardio)
+
+Use Kanban quando:
+
+Prioridades mudam com frequência
+Falta informação no início
+Decidir cedo demais gera retrabalho
+
+👉 Benefício chave:
+
+Você adia decisões com responsabilidade
+Trabalha com custo de atraso (cost of delay)
+
+👉 Ponto cego:
+
+Adiar decisão ≠ procrastinar
+Sem critérios claros, vira desorganização — não estratégia
+
+3. 🧠 Cultura resistente a mudanças bruscas
+
+Use Kanban se:
+
+A empresa rejeita mudanças radicais
+Há medo de perder status, papel ou controle
+Mudanças “top-down” falham
+
+👉 Por quê funciona:
+
+Mudança evolutiva, não disruptiva
+Preserva identidade das pessoas
+Reduz resistência emocional
+
+👉 Ponto cego:
+
+“Mudança suave” não significa ausência de mudança
+Se ninguém desafia o sistema → você só mantém problemas antigos
+
+❌ Quando NÃO usar Kanban
+4. 💥 Liderança quer transformação rápida e radical
+
+Evite Kanban se:
+
+O líder quer “virada de chave” imediata
+Busca impacto rápido e visível
+Valoriza mudanças estruturais drásticas
+
+👉 Problema:
+
+Kanban é lento, incremental e contínuo
+Não entrega “grandes revoluções” rápidas
+
+👉 Ponto cego crítico:
+
+Kanban não é ferramenta de “show de liderança”
+Ele remove protagonismo individual e foca no sistema
+
+🧭 Insight central do texto
+
+Kanban não é sobre velocidade inicial — é sobre sustentabilidade e previsibilidade ao longo do tempo.
+
+⚠️ Principais armadilhas (seus pontos cegos)
+1. Confundir “flexível” com “sem disciplina”
+
+Kanban exige:
+
+Regras claras
+Métricas
+Gestão ativa do fluxo
+2. Ignorar maturidade organizacional
+Nem toda empresa está pronta para todas as práticas
+Implementação precisa evoluir junto com a cultura
+3. Esperar resultados rápidos demais
+Kanban é melhoria contínua
+Resultados vêm acumulados, não instantâneos
+4. Achar que Kanban resolve problemas culturais sozinho
+Ele expõe problemas, não corrige automaticamente
+🧠 Resumo final (direto ao ponto)
+
+Use Kanban quando:
+
+Você precisa organizar o fluxo e reduzir caos
+Quer tomar decisões mais informadas
+Precisa evoluir sem gerar resistência
+
+Evite quando:
+
+A expectativa é mudança rápida, radical e visível

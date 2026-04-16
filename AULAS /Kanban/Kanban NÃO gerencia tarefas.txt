@@ -1,0 +1,182 @@
+🧠 1. Kanban NÃO gerencia tarefas — gerencia sistemas
+
+Os textos focam muito no fluxo de trabalho, mas não deixam explícito:
+
+Kanban é sobre otimizar o sistema como um todo, não o desempenho individual
+
+👉 Implicação prática:
+
+Não adianta “acelerar pessoas”
+Você precisa remover gargalos do sistema
+
+👉 Ponto cego comum:
+
+Empresas usam Kanban para cobrar mais produtividade individual
+Isso vai contra o próprio método
+
+📊 2. Métricas avançadas são o coração (e quase não foram exploradas)
+
+Você viu “medir fluxo”, mas faltou o essencial:
+
+Principais métricas reais do Kanban:
+
+Lead Time (tempo total de entrega)
+Cycle Time (tempo ativo de trabalho)
+Throughput (quantidade entregue por período)
+Work Item Age (idade de itens em andamento)
+
+👉 Ponto crítico:
+
+Sem métricas → você está “fazendo Kanban de fachada”
+
+🎯 3. Classes de serviço (priorização real)
+
+Isso não apareceu, mas é decisivo:
+
+Tipos comuns:
+
+Urgente (expedite)
+Prazo fixo (fixed date)
+Padrão
+Intangível (melhoria, inovação)
+
+👉 Por que importa:
+
+Define como o trabalho é tratado no sistema
+Evita caos de prioridades
+
+👉 Ponto cego:
+
+Times priorizam “no grito” em vez de por política clara
+
+⚖️ 4. Políticas explícitas são mais importantes que o board
+
+Os textos mencionam, mas subestimam o impacto:
+
+O verdadeiro Kanban está nas regras, não no quadro
+
+Exemplos críticos:
+
+Quando puxar uma tarefa
+O que significa “pronto”
+Limites de WIP por coluna
+Critérios de prioridade
+
+👉 Ponto cego:
+
+Times têm board bonito e regras inexistentes
+
+🔄 5. Kanban funciona por sistemas puxados (pull system)
+
+Isso é fundamental e não foi enfatizado:
+
+Trabalho é puxado, não empurrado
+Ninguém começa algo novo sem capacidade disponível
+
+👉 Resultado:
+
+Menos multitarefa
+Mais foco
+Fluxo mais previsível
+
+👉 Ponto cego:
+
+Empresas continuam “empurrando demanda” e dizem que usam Kanban
+
+🧩 6. O maior ganho do Kanban é previsibilidade, não velocidade
+
+Os textos falam de fluxo, mas não deixam claro:
+
+Kanban não é sobre fazer mais rápido — é sobre saber quando vai terminar
+
+👉 Isso muda tudo:
+
+Planejamento mais confiável
+Melhor relação com clientes
+
+👉 Ponto cego:
+
+Focar só em velocidade gera ansiedade e piora o sistema
+
+🧱 7. Gargalos são esperados (e desejáveis de identificar)
+Kanban expõe problemas
+Não tenta escondê-los
+
+👉 Implicação:
+
+Ver fila acumulando = sinal útil, não falha
+
+👉 Ponto cego:
+
+Times tentam “disfarçar gargalos” em vez de resolvê-los
+
+🧠 8. Kanban exige maturidade de pensamento sistêmico
+
+Não foi aprofundado:
+
+Pensar em fluxo contínuo
+Entender dependências
+Tomar decisões baseadas em dados
+
+👉 Ponto cego:
+
+Usar Kanban com mentalidade tradicional (comando e controle)
+
+🔁 9. Cadências (ritmos de gestão) não foram exploradas
+
+Kanban não tem “cerimônias fixas” como Scrum, mas tem cadências importantes:
+
+Replenishment (entrada de trabalho)
+Delivery planning
+Service delivery review
+Operations review
+Risk review
+
+👉 Ponto cego:
+
+Times acham que Kanban = sem reuniões estruturadas
+
+🧬 10. Kanban escala naturalmente (sem frameworks pesados)
+
+Pouco mencionado:
+
+Pode conectar múltiplos times
+Funciona como rede de serviços
+
+👉 Diferencial:
+
+Escala sem precisar de estruturas rígidas tipo SAFe
+
+👉 Ponto cego:
+
+Achar que Kanban é só para times pequenos
+
+⚠️ 11. Kanban NÃO resolve tudo sozinho
+
+Muito importante:
+
+Ele revela problemas organizacionais
+Mas não corrige automaticamente:
+Cultura ruim
+Liderança tóxica
+Falta de estratégia
+
+👉 Ponto cego:
+
+Esperar que “implantar Kanban” resolva a empresa
+
+🧭 RESUMO DOS PONTOS QUE FALTARAM (essência)
+
+O que você não pode ignorar:
+
+Kanban otimiza sistemas, não pessoas
+Métricas são obrigatórias
+Classes de serviço definem prioridade real
+Políticas explícitas > quadro visual
+Sistema puxado é essencial
+Foco principal = previsibilidade
+Gargalos são sinais valiosos
+Exige pensamento sistêmico
+Tem cadências (mesmo sem cerimônias fixas)
+Escala bem
+Não resolve problemas culturais sozinho
